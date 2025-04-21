@@ -1,7 +1,8 @@
-
-🩺 Medi Core Pharmacy Management System – Pharmacist Module
-This repository is part of the Medi Core Pharmacy Management System, specifically focused on the Pharmacist View Medicine & Validity Check module. It allows pharmacists to view detailed medicine information, monitor expiry dates, and ensure inventory accuracy in real time.
 # Pharmacist-View-Medicine-Validity-Check-Pages-and-Database
+
+🩺 Medi Core Pharmacy Management System – Pharmacist Module.
+
+This repository is part of the Medi Core Pharmacy Management System, specifically focused on the Pharmacist View Medicine & Validity Check module. It allows pharmacists to view detailed medicine information, monitor expiry dates, and ensure inventory accuracy in real time.
 CGP Software Development Individual Contribution (GROUP - 57)
 
 📌 Features
